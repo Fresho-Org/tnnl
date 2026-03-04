@@ -5,9 +5,9 @@ import (
 	"log"
 
 	"github.com/spf13/cobra"
-	"github.com/wim-web/tnnl/cmd"
-	"github.com/wim-web/tnnl/internal/handler"
-	"github.com/wim-web/tnnl/internal/input"
+	"github.com/fresho-org/tnnl/cmd"
+	"github.com/fresho-org/tnnl/internal/handler"
+	"github.com/fresho-org/tnnl/internal/input"
 )
 
 var cmdName = "command"

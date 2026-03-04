@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/wim-web/tnnl/cmd"
+	"github.com/fresho-org/tnnl/cmd"
 )
 
 func TestNormalizeVersion(t *testing.T) {

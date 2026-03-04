@@ -3,7 +3,7 @@ package view
 import (
 	"github.com/aws/aws-sdk-go-v2/service/ecs"
 	"github.com/aws/aws-sdk-go-v2/service/ecs/types"
-	"github.com/wim-web/tnnl/internal/listview"
+	"github.com/fresho-org/tnnl/internal/listview"
 )
 
 func Cluster2Task2Container(

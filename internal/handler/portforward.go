@@ -7,9 +7,9 @@ import (
 	"github.com/aws/aws-sdk-go-v2/config"
 	"github.com/aws/aws-sdk-go-v2/service/ecs"
 	"github.com/aws/aws-sdk-go-v2/service/ssm"
-	"github.com/wim-web/tnnl/internal/input"
-	"github.com/wim-web/tnnl/internal/view"
-	"github.com/wim-web/tnnl/pkg/command"
+	"github.com/fresho-org/tnnl/internal/input"
+	"github.com/fresho-org/tnnl/internal/view"
+	"github.com/fresho-org/tnnl/pkg/command"
 )
 
 func PortforwardHandler(input input.PortForwardInput) error {

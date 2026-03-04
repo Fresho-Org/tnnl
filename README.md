@@ -25,7 +25,7 @@ go install github.com/fresho-org/tnnl@main
 ```
 
 またはリリースバイナリを利用:  
-https://github.com/wim-web/tnnl/releases
+https://github.com/fresho-org/tnnl/releases
 
 ## 使い方
 

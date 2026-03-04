@@ -9,7 +9,7 @@ import (
 
 	"github.com/aws/aws-sdk-go-v2/service/ssm"
 	"github.com/aws/aws-sdk-go/aws"
-	"github.com/wim-web/tnnl/internal/session_manager"
+	"github.com/fresho-org/tnnl/internal/session_manager"
 )
 
 type DocumentName string

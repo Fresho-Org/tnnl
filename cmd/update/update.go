@@ -17,11 +17,11 @@ import (
 	"time"
 
 	"github.com/spf13/cobra"
-	"github.com/wim-web/tnnl/cmd"
+	"github.com/fresho-org/tnnl/cmd"
 )
 
 const (
-	releaseAPIURL = "https://api.github.com/repos/wim-web/tnnl/releases/latest"
+	releaseAPIURL = "https://api.github.com/repos/fresho-org/tnnl/releases/latest"
 	binaryName    = "tnnl"
 )
 

@@ -4,11 +4,11 @@ import (
 	_ "embed"
 	"strings"
 
-	"github.com/wim-web/tnnl/cmd"
-	_ "github.com/wim-web/tnnl/cmd/exec"
-	_ "github.com/wim-web/tnnl/cmd/portforward"
-	_ "github.com/wim-web/tnnl/cmd/remoteportforward"
-	_ "github.com/wim-web/tnnl/cmd/update"
+	"github.com/fresho-org/tnnl/cmd"
+	_ "github.com/fresho-org/tnnl/cmd/exec"
+	_ "github.com/fresho-org/tnnl/cmd/portforward"
+	_ "github.com/fresho-org/tnnl/cmd/remoteportforward"
+	_ "github.com/fresho-org/tnnl/cmd/update"
 )
 
 //go:embed .version

@@ -7,10 +7,10 @@ import (
 	"strings"
 
 	"github.com/spf13/cobra"
-	"github.com/wim-web/tnnl/cmd"
-	"github.com/wim-web/tnnl/internal/handler"
-	"github.com/wim-web/tnnl/internal/input"
-	"github.com/wim-web/tnnl/pkg/port"
+	"github.com/fresho-org/tnnl/cmd"
+	"github.com/fresho-org/tnnl/internal/handler"
+	"github.com/fresho-org/tnnl/internal/input"
+	"github.com/fresho-org/tnnl/pkg/port"
 )
 
 var localPortName = "local-port"

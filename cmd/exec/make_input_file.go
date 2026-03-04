@@ -2,7 +2,7 @@ package exec
 
 import (
 	"github.com/spf13/cobra"
-	"github.com/wim-web/tnnl/internal/input"
+	"github.com/fresho-org/tnnl/internal/input"
 )
 
 var MakeInputFileCmd = &cobra.Command{
