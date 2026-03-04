@@ -21,7 +21,7 @@
 ## インストール
 
 ```bash
-go install github.com/wim-web/tnnl@latest
+go install github.com/fresho-org/tnnl@main
 ```
 
 またはリリースバイナリを利用:  
