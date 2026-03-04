@@ -1,4 +1,4 @@
-module github.com/wim-web/tnnl
+module github.com/fresho-org/tnnl
 
 go 1.24.2
 
